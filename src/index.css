@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.homePage{
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+
+  
+}
+.homePage.swamp{
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+}
+
+.card{
+  float: left;
+  width: 24%;
+}
+.board{
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+}
